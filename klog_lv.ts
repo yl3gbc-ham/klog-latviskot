@@ -6,12 +6,12 @@
     <message>
         <location filename="../aboutdialog.cpp" line="17"/>
         <source>About KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Par Klogu</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="24"/>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>Autors</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="26"/>
@@ -41,18 +41,18 @@
     <message>
         <location filename="../aboutdialog.cpp" line="35"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autors</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="58"/>
         <location filename="../aboutdialog.cpp" line="59"/>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>šodien</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="58"/>
         <source>Main developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Galvenais izstrādātājs</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
@@ -73,7 +73,7 @@
         <location filename="../aboutdialog.cpp" line="64"/>
         <location filename="../aboutdialog.cpp" line="135"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autori</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
@@ -89,12 +89,12 @@
         <location filename="../aboutdialog.cpp" line="80"/>
         <location filename="../aboutdialog.cpp" line="136"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulkotāji</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="92"/>
         <source>Privacy advisory</source>
-        <translation type="unfinished"></translation>
+        <translation>Privātuma ieteikums</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="93"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>KLog version</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog versija</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
@@ -129,7 +129,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="134"/>
         <source>KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="137"/>
@@ -427,7 +427,7 @@
     <message>
         <location filename="../startwizard.cpp" line="1032"/>
         <source>KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Klogs</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="1033"/>
@@ -461,12 +461,12 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="442"/>
         <source>CQ: </source>
-        <translation type="unfinished"></translation>
+        <translation>CQ: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="443"/>
         <source>ITU: </source>
-        <translation type="unfinished"></translation>
+        <translation>ITU: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="445"/>
@@ -4914,12 +4914,12 @@ Please add and select the kind of log you want to use.</source>
     <message>
         <location filename="../setuppages/setuppagebandmode.cpp" line="16"/>
         <source>Bands</source>
-        <translation type="unfinished"></translation>
+        <translation>Diepazons</translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagebandmode.cpp" line="20"/>
         <source>Modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Modes</translation>
     </message>
 </context>
 <context>
@@ -6713,7 +6713,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../showerrordialog.cpp" line="9"/>
         <source>KLog Message</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog ziņojums</translation>
     </message>
 </context>
 <context>
@@ -6840,37 +6840,37 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="46"/>
         <source>CQ Zones per year</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ zonas gadā</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="50"/>
         <source>Reading data ... </source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek datu lasīšana ... </translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="50"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt lasīšanu</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="55"/>
         <source>CQ zones</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ zonas</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="56"/>
         <source>CQ zones per year</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ zonas gadā</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="68"/>
         <source>Reading data ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek datu lasīšana ...</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="68"/>
         <source>Years: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gadi: %1/%2</translation>
     </message>
 </context>
 <context>
@@ -7571,7 +7571,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../world.cpp" line="200"/>
         <source>Continent</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontinents</translation>
     </message>
     <message>
         <location filename="../world.cpp" line="1237"/>
