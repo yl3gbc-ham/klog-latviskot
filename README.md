@@ -1,0 +1,2 @@
+# Klog-translate-lv
+Latviskosana
