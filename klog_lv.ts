@@ -7596,32 +7596,32 @@ The log will not be opened.</source>
     <message>
         <location filename="../worldmapwidget.cpp" line="9"/>
         <source>World map</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasaules karte</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="204"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Skatīt</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="205"/>
         <source>Zoom In(25%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuvināt (25%)</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="209"/>
         <source>Zoom Out(25%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tālināt (25%)</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="213"/>
         <source>Normal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Normāls izmērs</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="216"/>
         <source>Fit to window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pielāgot logam</translation>
     </message>
 </context>
 <context>
