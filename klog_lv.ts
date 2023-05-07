@@ -271,7 +271,7 @@ DX</translation>
     <message>
         <location filename="../awardswidget.cpp" line="71"/>
         <source>Recalculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārrēķināt</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="72"/>
