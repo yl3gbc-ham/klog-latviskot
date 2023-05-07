@@ -276,13 +276,13 @@ DX</translation>
     <message>
         <location filename="../awardswidget.cpp" line="72"/>
         <source>Click to recalculate the award status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķiniet, lai pārrēķinātu balvas statusu.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="73"/>
         <location filename="../awardswidget.cpp" line="268"/>
         <source>Select the year you want to check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atlasiet gadu, kuru vēlaties pārbaudīt.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="75"/>
