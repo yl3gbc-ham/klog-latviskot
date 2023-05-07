@@ -393,12 +393,12 @@ DX</translation>
     <message>
         <location filename="../startwizard.cpp" line="915"/>
         <source>Country data download</source>
-        <translation type="unfinished"></translation>
+        <translation>Valsts datu lejupielāde</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="918"/>
         <source>KLog needs country data...</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog nepieciešami valstu dati...</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="924"/>
@@ -413,22 +413,22 @@ DX</translation>
     <message>
         <location filename="../startwizard.cpp" line="944"/>
         <source>Country data needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepieciešami valsts dati</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="947"/>
         <source>KLog uses the cty.csv file from https://www.country-files.com/ to get DXCC information.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog izmanto cty.csv failu no https://www.country-files.com/, lai iegūtu DXCC informāciju.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="949"/>
         <source>You need to download the cty.csv file if you want KLog to show you the countries, locator, etc. of the QSOs you do.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jums ir jālejupielādē cty.csv fails, ja vēlaties, lai KLog parādītu jūsu veikto QSO valstis, vietrādi utt.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="951"/>
         <source>Click on Download to download now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķiniet uz Lejupielādēt, lai lejupielādētu tūlīt.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="1032"/>
@@ -439,7 +439,8 @@ DX</translation>
         <location filename="../startwizard.cpp" line="1033"/>
         <source>I can&apos;t find the host. Please check your network and try again
 Do you want to try again?</source>
-        <translation type="unfinished"></translation>
+        <translation>Es nevaru atrast saimnieku. Lūdzu, pārbaudiet savu tīklu un mēģiniet vēlreiz
+Vai vēlaties mēģināt vēlreiz?</translation>
     </message>
 </context>
 <context>
@@ -447,22 +448,22 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="54"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināt</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="323"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefix</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="323"/>
         <source>Entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Entity</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="441"/>
         <source>Pref: </source>
-        <translation type="unfinished"></translation>
+        <translation>Priekšroka:</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="442"/>
@@ -477,12 +478,12 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="445"/>
         <source>Beam: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sija:</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="452"/>
         <source>Entity not worked in this band.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienība nedarbojās šajā joslā.</translation>
     </message>
 </context>
 <context>
