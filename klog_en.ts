@@ -1,142 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="lv_LV">
+<TS version="2.1" language="en_US">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../aboutdialog.cpp" line="17"/>
         <source>About KLog</source>
-        <translation>Par KLog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="24"/>
         <source>By</source>
-        <translation>Autors</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="26"/>
         <source>KLog is a free logbook for hamradio operators.</source>
-        <translation>KLog ir bezmaksas hamradio operatoriem.žurnāls.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="27"/>
         <source>Please be aware that this is a development release and it may contain many bugs.&lt;br&gt;Backup your data before using this software!</source>
-        <translation>Lūdzu, ņemiet vērā, ka šis ir izstrādes laidiens un tajā var būt daudz kļūdu.&lt;br&gt;Pirms šīs programmatūras izmantošanas dublējiet savus datus!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="29"/>
         <source>Since 0.6.2, KLog has been fully rewritten to provide a cross-platform application that runs on all major operating systems (Linux, macOS and Windows) and to support new functionality.</source>
-        <translation>
-Kopš 0.6.2 KLog ir pilnībā pārrakstīts, lai nodrošinātu starpplatformu lietojumprogrammu, kas darbojas visās lielākajās operētājsistēmās (Linux, macOS un Windows), un atbalstītu jaunas funkcionalitātes.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="31"/>
         <source>Please provide your review in KLog&apos;s eHam review page:</source>
-        <translation>
-Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
         <source>Find more information and the latest release at</source>
-        <translation>Plašāku informāciju un jaunāko izlaidumu meklējiet vietnē</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="35"/>
         <source>Author</source>
-        <translation>Autors</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="58"/>
         <location filename="../aboutdialog.cpp" line="59"/>
         <source>today</source>
-        <translation>šodien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="58"/>
         <source>Main developer</source>
-        <translation>Galvenais izstrādātājs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>KLog is developed by a very small team and you are invited to join!</source>
-        <translation>KLog izstrādā ļoti maza komanda, un jūs esat aicināti pievienoties!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>If you want to provide support you are welcome to join the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation>Ja vēlaties sniegt atbalstu, laipni lūdzam pievienoties &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog izstrādes adresātu sarakstam&lt;/a&gt;!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>You can also help us by sending bug reports or small code contributions, ideas or whatever you think may improve KLog.</source>
-        <translation>Varat arī mums palīdzēt, nosūtot kļūdu ziņojumus vai nelielu koda ieguldījumu, idejas vai visu, kas, jūsuprāt, varētu uzlabot KLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="64"/>
         <location filename="../aboutdialog.cpp" line="135"/>
         <source>Authors</source>
-        <translation>Autori</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>Translators bring KLog into your language. They are really an important part of the KLog development team.</source>
-        <translation>Tulkotājimi ienes KLog jūsu valodā. Viņi patiešām ir svarīga KLog izstrādes komandas sastāvdaļa.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>If KLog is still not in your language and you want to help us, you are welcome to contact us through the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation type="unfinished">Ja KLog joprojām nav jūsu valodā un vēlaties mums palīdzēt, varat sazināties ar mums, izmantojot &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog izstrādes vēstuli. saraksts&lt;/a&gt;!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="80"/>
         <location filename="../aboutdialog.cpp" line="136"/>
         <source>Translators</source>
-        <translation>Tulkotāji</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="92"/>
         <source>Privacy advisory</source>
-        <translation>Privātuma ieteikums</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="93"/>
         <source>KLog developers have included a feature that reports some user data to the KLog server with the sole purpose of identifying the number of installed versions, to focus development in one direction or another taking into account users&apos; needs.</source>
-        <translation>KLog izstrādātāji ir iekļāvuši funkciju, kas ziņo par dažiem lietotāja datiem KLog serverim ar vienīgo mērķi identificēt instalēto versiju skaitu, lai fokusētu attīstību vienā vai otrā virzienā, ņemot vērā lietotāju vajadzības.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="94"/>
         <source>At present, the data that is provided is the following:</source>
-        <translation>Šobrīd sniegtie dati ir šādi:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>Callsign</source>
-        <translation>Izsaukuma signāls</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>KLog version</source>
-        <translation>KLog versija</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>Operating system</source>
-        <translation>Operētājsistēma</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="96"/>
         <source>Be aware that you can enable/disable this feature from the Misc tab in the Setup page.</source>
-        <translation>Ņemiet vērā, ka šo funkciju varat iespējot/atspējot iestatīšanas lapas cilnē Dažādi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="134"/>
         <source>KLog</source>
-        <translation>KLog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="137"/>
         <source>Privacy</source>
-        <translation>Privātums</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -429,7 +427,7 @@ Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     <message>
         <location filename="../startwizard.cpp" line="1032"/>
         <source>KLog</source>
-        <translation>Klogs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="1033"/>
@@ -463,12 +461,12 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="442"/>
         <source>CQ: </source>
-        <translation>CQ: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="443"/>
         <source>ITU: </source>
-        <translation>ITU: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="445"/>
@@ -1462,22 +1460,22 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../startwizard.cpp" line="182"/>
         <source>KLog License information</source>
-        <translation>Informācija par KLog licenzi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="185"/>
         <source>Welcome to KLog!- brought to you under the terms of the GPL!</source>
-        <translation>Laipni lūdzam KLog! — nodrošināts saskaņā ar GPL noteikumiem!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="826"/>
         <source>Acknowledge</source>
-        <translation>Atzīt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="827"/>
         <source>Be aware that KLog is free software.</source>
-        <translation>Ņemiet vērā, ka KLog ir bezmaksas programmatūra.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4916,12 +4914,12 @@ Please add and select the kind of log you want to use.</source>
     <message>
         <location filename="../setuppages/setuppagebandmode.cpp" line="16"/>
         <source>Bands</source>
-        <translation>Diepazons</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagebandmode.cpp" line="20"/>
         <source>Modes</source>
-        <translation>Modes</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6715,7 +6713,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../showerrordialog.cpp" line="9"/>
         <source>KLog Message</source>
-        <translation>KLog ziņojums</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6842,37 +6840,37 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="46"/>
         <source>CQ Zones per year</source>
-        <translation>CQ zonas gadā</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="50"/>
         <source>Reading data ... </source>
-        <translation>Notiek datu lasīšana ... </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="50"/>
         <source>Abort reading</source>
-        <translation>Pārtraukt lasīšanu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="55"/>
         <source>CQ zones</source>
-        <translation>CQ zonas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="56"/>
         <source>CQ zones per year</source>
-        <translation>CQ zonas gadā</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="68"/>
         <source>Reading data ...</source>
-        <translation>Notiek datu lasīšana ...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="68"/>
         <source>Years: %1/%2</source>
-        <translation>Gadi: %1/%2</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7573,7 +7571,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../world.cpp" line="200"/>
         <source>Continent</source>
-        <translation>Kontinents</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../world.cpp" line="1237"/>
