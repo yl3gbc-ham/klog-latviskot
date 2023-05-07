@@ -7545,22 +7545,22 @@ The log will not be opened.</source>
     <message>
         <location filename="../updatesatsdata.cpp" line="59"/>
         <source>Reading Satellites data file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek satelītu datu faila lasīšana...</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="59"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt lasīšanu</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="213"/>
         <source>The Satellites information has been updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Satelītu informācija ir atjaunināta.</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="231"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Atver failu</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="233"/>
@@ -7583,12 +7583,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../world.cpp" line="1237"/>
         <source>Reading cty.csv...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lasu cty.csv...</translation>
     </message>
     <message>
         <location filename="../world.cpp" line="1237"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt lasīšanu</translation>
     </message>
 </context>
 <context>
@@ -7844,7 +7844,7 @@ You need a QRZ.com subscription to use this feature.</source>
     <message>
         <location filename="../elogqrzlog.cpp" line="660"/>
         <source>Callsign missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Trūkst izsaukuma signāla</translation>
     </message>
 </context>
 <context>
@@ -7853,13 +7853,14 @@ You need a QRZ.com subscription to use this feature.</source>
         <location filename="../eqslutilities.cpp" line="64"/>
         <location filename="../eqslutilities.cpp" line="98"/>
         <source>KLog - eQSL</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - eQSL</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="64"/>
         <source>eQSL has sent the following message:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>eQSL ir nosūtījis šādu ziņojumu:
+%1</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="85"/>
@@ -7869,47 +7870,48 @@ You need a QRZ.com subscription to use this feature.</source>
     <message>
         <location filename="../eqslutilities.cpp" line="91"/>
         <source>Timeout error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Taimauta kļūda!</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="97"/>
         <source>Undefined error number (#%1)... </source>
-        <translation type="unfinished"></translation>
+        <translation>Nedefinēts kļūdas numurs (#%1)...</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="99"/>
         <source>We have received an undefined error from eQSL (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mēs esam saņēmuši nedefinētu kļūdu no eQSL (% 1)</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="100"/>
         <source>Please check your config in the setup and contact the KLog development team if you can&apos;t fix it. eQSL uploads will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, pārbaudiet savu konfigurāciju iestatījumos un sazinieties ar KLog izstrādes komandu, ja nevarat to labot. eQSL augšupielāde tiks atspējota.</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="156"/>
         <source>eQSL Error: User or password incorrect</source>
-        <translation type="unfinished"></translation>
+        <translation>eQSL kļūda: nepareizs lietotājs vai parole</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="162"/>
         <source>eQSL Warning: At least one of the uplodaded QSOs is duplicated.</source>
-        <translation type="unfinished"></translation>
+        <translation>eQSL Brīdinājums: Vismaz viens no augšupielādētajiem QSO ir dublēts.</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="167"/>
         <source>eQSL: All the QSOs were properly uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>eQSL: visi QSO tika pareizi augšupielādēti.</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="221"/>
         <source>KLog - eQSL.cc password needed</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — nepieciešama eQSL.cc parole</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="221"/>
         <source>Please enter your eQSL.cc password: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Lūdzu, ievadiet savu eQSL.cc paroli:</translation>
     </message>
 </context>
 </TS>
