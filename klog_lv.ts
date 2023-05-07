@@ -233,7 +233,7 @@ DX</translation>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="329"/>
         <source>KLog - QSOs to be uploaded to ClubLog.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO, kas augšupielādējami ClubLog.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="330"/>
