@@ -144,87 +144,91 @@ Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="32"/>
         <source>Select the Station Callsign that you want to use to upload the log.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupielādei.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="35"/>
         <source>Select the start date to export the QSOs. The default date is the date of the first QSO with this station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties sākuma datumu, lai eksportētu QSO. Noklusējuma datums ir pirmā QSO datums ar šo stacijas izsaukuma signālu.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="40"/>
         <source>Select the end date to export the QSOs. The default date is the date of the last QSO with this station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO datums ar šo stacijas izsaukuma signālu.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="44"/>
         <source>Station callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacijas izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="47"/>
         <source>Start date</source>
-        <translation type="unfinished"></translation>
+        <translation>Sākuma datums</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="50"/>
         <source>End date</source>
-        <translation type="unfinished"></translation>
+        <translation>Beigu datums</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="52"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="53"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Atcelt</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>
+DX</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datums Laiks</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Band</source>
-        <translation type="unfinished"></translation>
+        <translation>Diepazons</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režīms</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="106"/>
         <source>Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav definēts</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="111"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Visi</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="200"/>
         <source>QSOs: </source>
-        <translation type="unfinished"></translation>
+        <translation>QSO:</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="324"/>
         <source>KLog - QSOs to be uploaded to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — QSO, kas jāaugšupielādē LoTW.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="325"/>
         <source>This table shows the QSOs that will be sent to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šajā tabulā parādīti QSO, kas tiks nosūtīti uz LoTW.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="329"/>
