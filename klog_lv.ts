@@ -7802,44 +7802,45 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogqrzlog.cpp" line="59"/>
         <source>Timeout error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Taimauta kļūda!</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="62"/>
         <source>Undefined error number (#%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedefinēts kļūdas numurs (#%1)</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="67"/>
         <location filename="../elogqrzlog.cpp" line="511"/>
         <source>KLog - QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — QRZ.com</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="68"/>
         <source>We have received the following error from QRZ.com (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mēs esam saņēmuši šādu kļūdu no QRZ.com (% 1)</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="512"/>
         <source>Not valid KEY found</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrasts nederīgs KEY</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="513"/>
         <source>Please configure your QRZ.com API key. You will find it in your QRZ.com Logbook settings webpage.
 You need a QRZ.com subscription to use this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, konfigurējiet savu QRZ.com API atslēgu. Jūs to atradīsit savā QRZ.com žurnāla iestatījumu tīmekļa vietnē.
+Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="591"/>
         <source>KLog - QRZ.com password needed</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — nepieciešama QRZ.com parole</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="591"/>
         <source>Please enter your QRZ.com password: </source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievadiet savu QRZ.com paroli:</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="660"/>
