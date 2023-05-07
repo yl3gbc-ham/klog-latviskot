@@ -263,7 +263,7 @@ DX</translation>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="345"/>
         <source>This table shows the QSOs that will be exported to ADIF.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šajā tabulā parādīti QSO, kas tiks eksportēti uz ADIF.</translation>
     </message>
 </context>
 <context>
