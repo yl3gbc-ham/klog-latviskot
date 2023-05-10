@@ -645,134 +645,134 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4438"/>
         <source>Earth-Moon-Earth</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeme-Mēness-Zeme</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4442"/>
         <source>Sporadic E</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporādisks E</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4446"/>
         <source>Field Aligned Irregularities</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laukā izlīdzinātie pārkāpumi</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4450"/>
         <source>F2 Reflection</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>F2 Atspulgs</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4454"/>
         <source>Internet-assisted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar interneta palīdzību</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4458"/>
         <source>Ionoscatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jonu izkliede</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4462"/>
         <source>Meteor scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Meteoru izkliede</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4466"/>
         <source>Terrestrial or atmospheric repeater or transponder</source>
-        <translation type="unfinished"></translation>
+        <translation>Virszemes vai atmosfēras atkārtotājs vai retranslators</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4470"/>
         <source>Rain scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lietus izkliedē</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4474"/>
         <source>Satellite</source>
-        <translation type="unfinished"></translation>
+        <translation>Satelīts</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4478"/>
         <source>Trans-equatorial</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Transekvatoriāls</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4482"/>
         <source>Tropospheric ducting</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Troposfēras kanāli</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5041"/>
         <location filename="../dataproxy_sqlite.cpp" line="5108"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Jā</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5045"/>
         <location filename="../dataproxy_sqlite.cpp" line="5112"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nē</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5049"/>
         <location filename="../dataproxy_sqlite.cpp" line="5116"/>
         <source>Requested</source>
-        <translation type="unfinished"></translation>
+        <translation>Pieprasīts</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5053"/>
         <location filename="../dataproxy_sqlite.cpp" line="5124"/>
         <source>Ignore/Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorēt/nederīgs</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5057"/>
         <source>Validated</source>
-        <translation type="unfinished"></translation>
+        <translation>Apstiprināts</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5120"/>
         <source>Queued</source>
-        <translation type="unfinished"></translation>
+        <translation>Rindā</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5172"/>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Augšupielādēts</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5176"/>
         <source>Do not upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Neaugšupielādēt</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5180"/>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārveidots</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5230"/>
         <source>Bureau</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Birojs</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5234"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Tieša</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5238"/>
         <source>Electronic</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektroniskā</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5242"/>
@@ -783,32 +783,32 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="6131"/>
         <source>KLog DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog DXCC</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="6132"/>
         <source>All QSOs have been updated with a DXCC and the Continent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visi QSO ir atjaunināti ar DXCC un kontinentu.</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9205"/>
         <source>KLog - Invalid call detected</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — konstatēts nederīgs izsaukumasignals</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9211"/>
         <source>An empty callsign has been detected. Do you want to export this QSO anyway (click on Yes) or remove the field from the exported ADIF record?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir konstatēts tukšs izsaukuma signāls. Vai tomēr vēlaties eksportēt šo QSO (noklikšķināt uz Jā) vai noņemt lauku no eksportētā ADIF ieraksta?</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9216"/>
         <source>An invalid callsign has been detected %1. Do you want to export this callsign anyway (click on Yes) or remove the call from the exported log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir konstatēts nederīgs izsaukuma signāls %1. Vai tomēr vēlaties eksportēt šo izsaukuma signālu (noklikšķināt uz Jā) vai noņemt zvanu no eksportētā žurnāla?</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9220"/>
         <source>Exporting wrong calls may create problems in the applications you are potentially importing this logfile to. It may, however, be a good callsign that is wrongly identified by KLog as not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepareizu zvanu eksportēšana var radīt problēmas lietojumprogrammās, kurās, iespējams, importējat šo žurnālfailu. Tomēr tas var būt labs izsaukuma signāls, ko KLog nepareizi identificē kā nederīgu.</translation>
     </message>
 </context>
 <context>
@@ -816,22 +816,22 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../downloadcty.cpp" line="62"/>
         <source>Download of cty.csv failed with the following error code: </source>
-        <translation type="unfinished"></translation>
+        <translation>Cty.csv lejupielāde neizdevās ar šādu kļūdas kodu: </translation>
     </message>
     <message>
         <location filename="../downloadcty.cpp" line="74"/>
         <source>Download of cty.csv done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cty.csv lejupielāde ir pabeigta.</translation>
     </message>
     <message>
         <location filename="../downloadcty.cpp" line="145"/>
         <source>There is already a cty.csv file in the folder but it will be replaced with the new one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapē jau ir fails cty.csv, taču tas tiks aizstāts ar jaunu.</translation>
     </message>
     <message>
         <location filename="../downloadcty.cpp" line="174"/>
         <source>Could not open %1 for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja atvērt %1 rakstīšanai</translation>
     </message>
 </context>
 <context>
