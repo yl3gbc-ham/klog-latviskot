@@ -839,47 +839,47 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../fileawardmanager.cpp" line="13"/>
         <source>Open Award file</source>
-        <translation type="unfinished"></translation>
+        <translation>Atveriet balvas failu</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="13"/>
         <source>Award files (*.awa)</source>
-        <translation type="unfinished"></translation>
+        <translation>Apbalvojuma faili (*.awa)</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="19"/>
         <source>Award file not opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Balvas fails nav atvērts</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="19"/>
         <source>KLog was not able to read the award file</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog nevarēja nolasīt balvas failu</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="19"/>
         <source>It was not possible to open the file %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja atvērt failu %1 lasīšanai.</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="62"/>
         <source>AWA wrong format</source>
-        <translation type="unfinished"></translation>
+        <translation>AWA nepareizs formāts</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="62"/>
         <source>The AWA file does not have the right format</source>
-        <translation type="unfinished"></translation>
+        <translation>AWA failam nav pareizais formāts</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="62"/>
         <source>AWA file does not have an &lt;EOH&gt; field</source>
-        <translation type="unfinished"></translation>
+        <translation>AWA failam nav &lt;EOH&gt; lauka</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="206"/>
         <source>KLog - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog — %1</translation>
     </message>
 </context>
 <context>
