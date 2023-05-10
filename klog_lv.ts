@@ -613,12 +613,12 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="121"/>
         <source>Software version in DB is null</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmatūras versija DB ir nulle</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="121"/>
         <source>Query didn&apos;t failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaicājums neizdevās</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4422"/>
@@ -629,12 +629,12 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4426"/>
         <source>Aurora</source>
-        <translation type="unfinished"></translation>
+        <translation>Aurora</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4430"/>
         <source>Aurora-E</source>
-        <translation type="unfinished"></translation>
+        <translation>Aurora-E</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4434"/>
