@@ -491,13 +491,13 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxcluster.cpp" line="74"/>
         <source>Click on Connect to connect to the DX-Cluster server</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķiniet uz Savienot, lai izveidotu savienojumu ar DX-Cluster serveri</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="78"/>
         <location filename="../dxcluster.cpp" line="542"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Savienot</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="79"/>
@@ -510,19 +510,19 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxcluster.cpp" line="156"/>
         <source>Click on connect to connect to the DX-Cluster</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķiniet uz izveidot savienojumu, lai izveidotu savienojumu ar DX-klasteri</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="216"/>
         <source>Trying to connect to the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Mēģina izveidot savienojumu ar serveri</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="228"/>
         <location filename="../dxcluster.cpp" line="234"/>
         <location filename="../dxcluster.cpp" line="241"/>
         <source>KLog DXCluster</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog DXCluster</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="229"/>
@@ -533,77 +533,79 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../dxcluster.cpp" line="230"/>
         <source>- your network connection;
 - the host name and port settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>- jūsu tīkla savienojums;
+- resursdatora nosaukums un porta iestatījumi.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="235"/>
         <source>The connection was refused by the peer. Make sure the DXCluster server is running, and check that the host name and port settings are correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Līdzinieks atteicās izveidot savienojumu. Pārliecinieties, vai darbojas DXCluster serveris, un pārbaudiet, vai resursdatora nosaukums un porta iestatījumi ir pareizi.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="242"/>
         <source>The following error occurred: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Radās šāda kļūda: %1.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="494"/>
         <source>Connected to server</source>
-        <translation type="unfinished"></translation>
+        <translation>Savienots ar serveri</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="507"/>
         <location filename="../dxcluster.cpp" line="511"/>
         <location filename="../dxcluster.cpp" line="515"/>
         <source>KLog message</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog ziņojums</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="507"/>
         <location filename="../dxcluster.cpp" line="511"/>
         <source>Enter your callsign to connect to the cluster:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadiet savu izsaukuma signālu, lai izveidotu savienojumu ar klasteri:</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="515"/>
         <source>Enter your password to connect to the cluster:
 (Just hit enter for no password)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadiet savu paroli, lai izveidotu savienojumu ar klasteri:
+(Vienkārši nospiediet Enter, lai bez paroles)</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="520"/>
         <location filename="../dxcluster.cpp" line="599"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvienoties</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="524"/>
         <source>Not logged on, you may need to enter your callsign again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neesat pieteicies, iespējams, vēlreiz jāievada izsaukuma signāls.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="528"/>
         <source>Enter here the commands to be sent to the DX-Cluster server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šeit ievadiet komandas, kas jānosūta uz DX-Cluster serveri.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="538"/>
         <source>Connection closed by the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Savienojumu noslēdzis serveris</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="544"/>
         <source>Click on Connect to connect to the DX-Cluster server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķiniet uz Savienot, lai izveidotu savienojumu ar DX-Cluster serveri.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="604"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Sūtīt</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="791"/>
         <source>It was not possible to open the file to save the DX-Spots for writing. DX-Cluster activity will not be saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja atvērt failu, lai saglabātu DX-Spots rakstīšanai. DX klastera darbība netiks saglabāta!</translation>
     </message>
 </context>
 <context>
