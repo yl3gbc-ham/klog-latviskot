@@ -1690,7 +1690,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="105"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datums</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="108"/>
@@ -1700,27 +1700,27 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="111"/>
         <source>Band</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapazons</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="114"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režīms</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="117"/>
         <source>RSTtx</source>
-        <translation type="unfinished"></translation>
+        <translation>RSTtx</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="120"/>
         <source>RSTrx</source>
-        <translation type="unfinished"></translation>
+        <translation>RSTrx</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="123"/>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentāri</translation>
     </message>
 </context>
 <context>
@@ -6730,12 +6730,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="17"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="35"/>
         <source>KLog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog atjauninājums</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="53"/>
@@ -6745,12 +6745,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="53"/>
         <source>Your KLog has been updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsu KLog ir atjaunināts.</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="53"/>
         <source>You already have the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jums jau ir jaunākā versija.</translation>
     </message>
 </context>
 <context>
