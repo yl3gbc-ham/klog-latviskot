@@ -142,8 +142,7 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="32"/>
         <source>Select the Station Callsign that you want to use to upload the log.</source>
-        <translation>
-Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupielādei.</translation>
+        <translation>Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupielādei.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="35"/>
@@ -153,8 +152,7 @@ Atlasiet stacijas izsaukuma signālu, kuru vēlaties izmantot žurnāla augšupi
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="40"/>
         <source>Select the end date to export the QSOs. The default date is the date of the last QSO with this station callsign.</source>
-        <translation>
-Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO datums ar šo stacijas izsaukuma signālu.</translation>
+        <translation>Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO datums ar šo stacijas izsaukuma signālu.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="44"/>
@@ -179,14 +177,12 @@ Atlasiet beigu datumu, lai eksportētu QSO. Noklusējuma datums ir pēdējā QSO
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="53"/>
         <source>Cancel</source>
-        <translation>
-Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>DX</source>
-        <translation>
-DX</translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
@@ -216,7 +212,7 @@ DX</translation>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="200"/>
         <source>QSOs: </source>
-        <translation>QSO:</translation>
+        <translation>QSO: </translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="324"/>
