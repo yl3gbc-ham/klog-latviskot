@@ -26,14 +26,12 @@
     <message>
         <location filename="../aboutdialog.cpp" line="29"/>
         <source>Since 0.6.2, KLog has been fully rewritten to provide a cross-platform application that runs on all major operating systems (Linux, macOS and Windows) and to support new functionality.</source>
-        <translation>
-Kopš 0.6.2 KLog ir pilnībā pārrakstīts, lai nodrošinātu starpplatformu lietojumprogrammu, kas darbojas visās lielākajās operētājsistēmās (Linux, macOS un Windows), un atbalstītu jaunas funkcionalitātes.</translation>
+        <translation>Kopš 0.6.2 KLog ir pilnībā pārrakstīts, lai nodrošinātu starpplatformu lietojumprogrammu, kas darbojas visās lielākajās operētājsistēmās (Linux, macOS un Windows), un atbalstītu jaunas funkcionalitātes.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="31"/>
         <source>Please provide your review in KLog&apos;s eHam review page:</source>
-        <translation>
-Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
+        <translation>Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
@@ -85,7 +83,7 @@ Lūdzu, sniedziet savu atsauksmi KLog eHam pārskata lapā:</translation>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>If KLog is still not in your language and you want to help us, you are welcome to contact us through the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation type="unfinished">Ja KLog joprojām nav jūsu valodā un vēlaties mums palīdzēt, varat sazināties ar mums, izmantojot &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog izstrādes vēstuli. saraksts&lt;/a&gt;!</translation>
+        <translation>Ja KLog joprojām nav jūsu valodā un vēlaties mums palīdzēt, varat sazināties ar mums, izmantojot &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog izstrādes vēstuli. saraksts&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="80"/>
