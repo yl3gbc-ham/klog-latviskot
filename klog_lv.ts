@@ -457,7 +457,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="441"/>
         <source>Pref: </source>
-        <translation>Priekšroka:</translation>
+        <translation>Prefiks: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="442"/>
@@ -472,7 +472,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="445"/>
         <source>Beam: </source>
-        <translation>Sija:</translation>
+        <translation>Sija: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="452"/>
@@ -499,7 +499,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../dxcluster.cpp" line="600"/>
         <location filename="../dxcluster.cpp" line="605"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Dzēst</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="156"/>
@@ -634,7 +634,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../dataproxy_sqlite.cpp" line="4434"/>
         <source>Back scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4438"/>
@@ -7632,18 +7632,18 @@ The log will not be opened.</source>
         <location filename="../elogclublog.cpp" line="76"/>
         <location filename="../elogclublog.cpp" line="162"/>
         <source>Timeout error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Taimauta kļūda!</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="107"/>
         <source>QSO dupe or not existing (#%1)... </source>
-        <translation type="unfinished"></translation>
+        <translation>QSO ir dublikāts vai nepastāv (#% 1)... </translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="108"/>
         <location filename="../elogclublog.cpp" line="117"/>
         <source>KLog - ClubLog</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - ClubLog</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="109"/>
@@ -7699,12 +7699,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogclublog.cpp" line="585"/>
         <source>Updated QSO</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināts QSO</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="589"/>
         <source>Invalid ADIF record</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs ADIF ieraksts</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="593"/>
@@ -7793,7 +7793,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogqrzlog.cpp" line="56"/>
         <source>Host not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Domēna nav</translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="59"/>
@@ -7836,7 +7836,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../elogqrzlog.cpp" line="591"/>
         <source>Please enter your QRZ.com password: </source>
-        <translation>Lūdzu, ievadiet savu QRZ.com paroli:</translation>
+        <translation>Lūdzu, ievadiet savu QRZ.com paroli: </translation>
     </message>
     <message>
         <location filename="../elogqrzlog.cpp" line="660"/>
@@ -7862,7 +7862,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../eqslutilities.cpp" line="85"/>
         <source>Host not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neeksistē šis  domēns!</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="91"/>
@@ -7872,7 +7872,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../eqslutilities.cpp" line="97"/>
         <source>Undefined error number (#%1)... </source>
-        <translation>Nedefinēts kļūdas numurs (#%1)...</translation>
+        <translation>Nedefinēts kļūdas numurs (#%1)... </translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="99"/>
@@ -7907,8 +7907,7 @@ Lai izmantotu šo funkciju, jums ir nepieciešams QRZ.com abonements.</translati
     <message>
         <location filename="../eqslutilities.cpp" line="221"/>
         <source>Please enter your eQSL.cc password: </source>
-        <translation>
-Lūdzu, ievadiet savu eQSL.cc paroli:</translation>
+        <translation>Lūdzu, ievadiet savu eQSL.cc paroli: </translation>
     </message>
 </context>
 </TS>
