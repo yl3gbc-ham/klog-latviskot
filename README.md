@@ -1,2 +1,2 @@
-# Klog-translate-lv
-Latviskosana
+# Klog-translate LV/RU
+Latviski & руский
